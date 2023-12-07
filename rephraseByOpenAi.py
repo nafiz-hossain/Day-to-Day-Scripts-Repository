@@ -4,7 +4,7 @@ import pyperclip
 import openai
 
 # Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = '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'
+openai.api_key = ' '
 
 def copy_clipboard():
     """
